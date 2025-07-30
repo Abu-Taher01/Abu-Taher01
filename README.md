@@ -15,20 +15,17 @@
   <a href="https://www.google.com/maps/place/Sylhet"><img src="https://img.shields.io/badge/Location-Sylhet,_Bangladesh-green?style=for-the-badge&logo=google-maps"></a>
 </p>
 
----
-
 ## 📝 About Me
 
-> Computer Science graduate passionate about competitive programming and machine learning. Achieved **Specialist** rank on Codeforces and **3-star** on CodeChef, solving **1800+** problems across different platforms. Recently got into ML and have been working on Kaggle competitions, where I managed to get into the top 30% in a classification challenge. I also mentor junior students in competitive programming at my university.
+Computer Science graduate with a passion for competitive programming and machine learning. Specialist on Codeforces, 3-star on CodeChef, and 1800+ problems solved. Top 30% in a Kaggle classification challenge. Mentor for junior programmers.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abu-Taher01&show_icons=true&theme=radical&count_private=true" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abu-Taher01&theme=radical" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abu-Taher01&layout=compact&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abu-Taher01&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abu-Taher01&theme=github-dark&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -36,177 +33,62 @@
 ## 🛠️ Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,django,tensorflow,numpy,pandas,scikit-learn,jupyter" />
-</p>
-
-### Core Competencies
-- 🧮 **Algorithms & Data Structures**: Advanced problem-solving, complex algorithms
-- 🤖 **Machine Learning**: Regression, Decision Trees, SVM, Random Forest, Ensemble methods
-- 📊 **Deep Learning**: CNNs, MLPs, Neural Network Architectures
-- 🔍 **Data Analysis**: Feature Engineering, Statistical Analysis, Data Visualization
-
----
-
-## 🚀 Experience & Achievements
-
-### Major Competitions
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/ICPC-4_Time_Regionalist-gold?style=for-the-badge" alt="ICPC"/>
-      <br>2021-2024
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Meta-Hacker_Cup_R2-blue?style=for-the-badge&logo=meta" alt="Meta Hacker Cup"/>
-      <br>Rank 2826
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/SUST-4th_Position-silver?style=for-the-badge" alt="SUST"/>
-      <br>Code Battle 2024
-    </td>
-  </tr>
-</table>
-
-### Additional Achievements
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/UIU_IUPC-Rank_85-orange?style=for-the-badge" alt="UIU IUPC"/>
-      <br>Team: NEUB_RecursiveRangers
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/CUET_IUPC-Rank_63-orange?style=for-the-badge" alt="CUET IUPC"/>
-      <br>Team: NEUB_BELIEVERS
-    </td>
-  </tr>
-</table>
-
----
-
-## 💻 Competitive Programming Stats
-
-<p align="center">
-
-### Codeforces
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=WhoAmI_Who&theme=radical&force_username=true&title_color=F7971E)](https://codeforces.com/profile/WhoAmI_Who)
-
-### Problem Solving Overview
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Codeforces-1406_Rating-purple?style=for-the-badge&logo=codeforces" alt="Codeforces"/>
-      <br>WhoAmI_Who (Specialist)
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/CodeChef-1685_Rating-brown?style=for-the-badge&logo=codechef" alt="CodeChef"/>
-      <br>Come_back01 (3★)
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Problems_Solved-1800+-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved"/>
-      <br>Across Platforms
-    </td>
-  </tr>
-</table>
-
-#### Additional Handles
-- 🎯 Alternative CF: [SAHAL01](https://codeforces.com/profile/SAHAL01) (Max: 1357)
-- 🏆 AtCoder: [In Progress]
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 </p>
 
 ---
 
-## 🤖 Machine Learning Journey
+## 🏆 Achievements
 
-<p align="center">
-  <a href="https://www.kaggle.com/abdullahalmamun01"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
-</p>
+- <img src="https://img.shields.io/badge/ICPC-4x_Regionalist-gold?style=flat-square"/> 2021–2024
+- <img src="https://img.shields.io/badge/Code_Battle-4th_Place_SUST_CSE_Carnival-silver?style=flat-square"/> 2024
+- <img src="https://img.shields.io/badge/Meta_Hacker_Cup-Round_2_(Rank_2826)-blue?style=flat-square"/> 2021
+- <img src="https://img.shields.io/badge/UIU_IUPC-Rank_85-orange?style=flat-square"/> (NEUB_RecursiveRangers)
+- <img src="https://img.shields.io/badge/CUET_IUPC-Rank_63-orange?style=flat-square"/> (NEUB_BELIEVERS)
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Competition-Top_30%25-success?style=for-the-badge" alt="Competition Ranking"/>
-      <br>Personality Prediction Challenge
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Notebooks-Featured-orange?style=for-the-badge" alt="Featured Notebooks"/>
-      <br>EDA & Model Experimentation
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Projects-Agriculture_&_Health-green?style=for-the-badge" alt="Projects"/>
-      <br>Regression & Analysis
-    </td>
-  </tr>
-</table>
+---
 
-### 🏆 Featured Projects
-<details>
-  <summary>📊 <b>Predict Introverts from Extroverts</b> (Top 30% - Rank 665/2293)</summary>
-  <ul>
-    <li>Advanced feature engineering with interaction terms</li>
-    <li>Cross-validation & hyperparameter optimization</li>
-    <li>Comprehensive visualization pipeline</li>
-    <li>Ensemble model implementation</li>
-  </ul>
-</details>
-<details>
-  <summary>🔬 <b>EDA & Model Experimentation</b></summary>
-  <ul>
-    <li>Non-linear feature interaction analysis</li>
-    <li>XGBoost, Random Forest optimization</li>
-    <li>Neural Network architecture design</li>
-    <li>End-to-end reproducible workflow</li>
-  </ul>
-</details>
-<details>
-  <summary>🌱 <b>Agricultural & Health Predictions</b></summary>
-  <ul>
-    <li>Feature importance analysis</li>
-    <li>Model comparison framework</li>
-    <li>Optimized regression pipelines</li>
-    <li>Comprehensive documentation</li>
-  </ul>
-</details>
+## 💻 Competitive Programming
+
+- <img src="https://img.shields.io/badge/Codeforces-1406_(Specialist)-purple?style=flat-square&logo=codeforces"/> [WhoAmI_Who](https://codeforces.com/profile/WhoAmI_Who)
+- <img src="https://img.shields.io/badge/CodeChef-1685_(3★)-brown?style=flat-square&logo=codechef"/> [Come_back01](https://www.codechef.com/users/come_back01)
+- <img src="https://img.shields.io/badge/Problems_Solved-1800%2B-blue?style=flat-square&logo=leetcode"/> Across Platforms
+- <img src="https://img.shields.io/badge/Mentor-NEUB_CP_Training_Camp-informational?style=flat-square"/>
+
+---
+
+## 🤖 Machine Learning Projects
+
+- <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/> [kaggle.com/abdullahalmamun01](https://www.kaggle.com/abdullahalmamun01)
+- **Personality Prediction Challenge** – Top 30% (Feature engineering, cross-validation, visualization)
+- **EDA & Model Experimentation** – Data cleaning, ensemble models, reproducibility
+- **Optimal Fertilizer & Calorie Prediction** – Regression, feature selection, XGBoost
 
 ---
 
 ## 🎓 Education
-- **North East University Bangladesh**, Sylhet, Bangladesh (2020 - 2024)
-  - B.Sc. in Computer Science & Engineering
-  - CGPA: 3.43 / 4.00
+
+- **North East University Bangladesh** (2020–2024)  
+  B.Sc. in Computer Science & Engineering, CGPA: 3.43/4.00
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
+
 <p align="center">
-  <a href="mailto:almamun11131@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/abdullah-al-mamun-003913205/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.google.com/maps/place/Sylhet"><img src="https://img.shields.io/badge/Location-Sylhet,_Bangladesh-green?style=for-the-badge&logo=google-maps"></a>
-  <a href="tel:+8801784218886"><img src="https://img.shields.io/badge/Phone-+8801784218886-purple?style=for-the-badge&logo=whatsapp"></a>
+  <a href="mailto:almamun11131@gmail.com"><img src="https://img.shields.io/badge/Email-almamun11131%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/abdullah-al-mamun-003913205/"><img src="https://img.shields.io/badge/LinkedIn-Abdullah_Al_Mamun-blue?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.google.com/maps/place/Sylhet"><img src="https://img.shields.io/badge/Location-Sylhet,_Bangladesh-green?style=flat-square&logo=google-maps"></a>
 </p>
-
----
-
-## 🌱 Current Focus Areas
-<p align="center">
-  
-| Deep Learning | Machine Learning | Competitive Programming |
-|:------------:|:----------------:|:----------------------:|
-| TensorFlow Mastery | Advanced Algorithms | Advanced Problem Solving |
-| Neural Networks | Feature Engineering | Contest Strategies |
-| CNN Architectures | Model Optimization | Dynamic Programming |
-
-</p>
-
----
-
-## 👯 Looking to Collaborate?
-I'm passionate about:
-- 🏆 Competitive Programming Mentorship
-- 🤖 Machine Learning Projects
-- 📊 Data Analysis and Visualization
-
-Feel free to reach out if you'd like to work together on any of these areas!
 
 ---
 
 ⭐️ From [Abdullah Al Mamun](https://github.com/Abu-Taher01)
+
