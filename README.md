@@ -45,7 +45,7 @@ Computer Science graduate with a passion for competitive programming and machine
 ## 🏆 Achievements
 
 - <img src="https://img.shields.io/badge/ICPC-4x_Regionalist-gold?style=flat-square"/> 2021–2024
-- <img src="https://img.shields.io/badge/Code_Battle-4th_Place_SUST_CSE_Carnival-silver?style=flat-square"/> 2024
+- <img src="https://img.shields.io/badge/Code_Battle-4th_Place_SUST_CSE_Carnival-green?style=flat-square"/> 2024
 - <img src="https://img.shields.io/badge/Meta_Hacker_Cup-Round_2_(Rank_2826)-blue?style=flat-square"/> 2021
 - <img src="https://img.shields.io/badge/UIU_IUPC-Rank_85-orange?style=flat-square"/> (NEUB_RecursiveRangers)
 - <img src="https://img.shields.io/badge/CUET_IUPC-Rank_63-orange?style=flat-square"/> (NEUB_BELIEVERS)
