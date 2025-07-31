@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/abdullah-al-mamun-003913205/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.google.com/maps/place/Sylhet"><img src="https://img.shields.io/badge/Location-Sylhet,_Bangladesh-green?style=for-the-badge&logo=google-maps"></a>
 </p>
-  ![Visitor Count](https://profile-counter.glitch.me/Abu-Taher01/count.svg)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Abu-Taher01.visitor-badge)
 
 ## 📝 About Me
 
