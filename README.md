@@ -82,7 +82,7 @@ Computer Science graduate with a passion for competitive programming and machine
 <p align="center">
   <a href="mailto:almamun11131@gmail.com"><img src="https://img.shields.io/badge/Email-almamun11131%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/abdullah-al-mamun-003913205/"><img src="https://img.shields.io/badge/LinkedIn-Abdullah_Al_Mamun-blue?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.google.com/maps/place/Sylhet"><img src="https://img.shields.io/badge/Location-Sylhet,_Bangladesh-green?style=flat-square&logo=google-maps"></a>
+  <a href="https://www.google.com/maps/place/Sylhet"><img src="https://img.shields.io/badge/Location-_Bangladesh-green?style=flat-square&logo=google-maps"></a>
 </p>
 
 ---
