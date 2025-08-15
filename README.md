@@ -64,7 +64,7 @@ Computer Science graduate with a passion for competitive programming and machine
 ## 🤖 Machine Learning Projects
 
 - <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/> [kaggle.com/abdullahalmamun01](https://www.kaggle.com/abdullahalmamun01)
-- **Personality Prediction Challenge** – Top 30% (Feature engineering, cross-validation, visualization) public dataset
+- **Personality Prediction Challenge** – Top 20% (Feature engineering, cross-validation, visualization) public dataset
 - **EDA & Model Experimentation** – Data cleaning, ensemble models, reproducibility
 - **Optimal Fertilizer & Calorie Prediction** – Regression, feature selection, XGBoost
 
