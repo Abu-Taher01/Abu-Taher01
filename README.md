@@ -14,7 +14,7 @@
 
 ## 📝 About Me
 
-Computer Science graduate with a passion for competitive programming and machine learning. Specialist on Codeforces, 3-star on CodeChef, and 1800+ problems solved. Top 30% in a Kaggle classification challenge. Mentor for junior programmers.
+Computer Science graduate with a passion for competitive programming and machine learning. Specialist on Codeforces, 3-star on CodeChef, and 1800+ problems solved. Top 20% in a Kaggle classification challenge (public dataset). Mentor for junior programmers.
 
 ---
 
